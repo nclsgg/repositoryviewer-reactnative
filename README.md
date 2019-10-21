@@ -30,12 +30,12 @@ This project is a repository viewer, made by Nicolas Guadagno, through the rocke
 
 On the main page, add the user you want to browse through the favored repositories.
 
-![Main](https://user-images.githubusercontent.com/48268521/67240467-ec7c9400-f427-11e9-9d78-217483b94f7d.jpeg)
+![Main2](https://user-images.githubusercontent.com/48268521/67241219-682b1080-f429-11e9-9c79-84009d1acfce.jpeg)
 
 After adding the user and clicking "See Profile", you can view all the repositories that the user likes. To view the contents of the Repository, tap which you want.
 
-![Usuario](https://user-images.githubusercontent.com/48268521/67240474-f0101b00-f427-11e9-8ff7-4e6c564d9a8b.jpeg)
+![Usuario2](https://user-images.githubusercontent.com/48268521/67241225-6a8d6a80-f429-11e9-91c8-82cd5c1ae9e0.jpeg)
 
 And you can finally browse through the contents of the selected repository.
 
-![Repositorio](https://user-images.githubusercontent.com/48268521/67240484-f2727500-f427-11e9-870a-d734876ee637.jpeg)
+![Repositorio2](https://user-images.githubusercontent.com/48268521/67241228-6bbe9780-f429-11e9-96a5-a73e87eebf4d.jpeg)
